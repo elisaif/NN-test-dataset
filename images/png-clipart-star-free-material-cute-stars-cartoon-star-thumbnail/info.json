@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 11,
+    "height" : 11
+  }, {
+    "width" : 22,
+    "height" : 22
+  }, {
+    "width" : 44,
+    "height" : 44
+  }, {
+    "width" : 87,
+    "height" : 87
+  }, {
+    "width" : 174,
+    "height" : 174
+  }, {
+    "width" : 348,
+    "height" : 348
+  } ],
+  "profile" : "level0",
+  "width" : 348,
+  "id" : "https://elisaif.github.io/NN-test-dataset/images/png-clipart-star-free-material-cute-stars-cartoon-star-thumbnail",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 348
+}
